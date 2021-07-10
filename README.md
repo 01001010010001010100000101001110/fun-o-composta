@@ -1,2 +1,2 @@
-# fun-o-composta
+# funcao-composta
 utilizando funções compostas
